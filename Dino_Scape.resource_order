@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Note1","order":1,"path":"notes/Note1/Note1.yy",},
+  ],
 }
