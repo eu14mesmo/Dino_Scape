@@ -1,6 +1,14 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"sprite","order":1,"path":"folders/sprite.yy",},
+    {"name":"level","order":3,"path":"folders/sprite/level.yy",},
+    {"name":"player","order":1,"path":"folders/sprite/player.yy",},
+    {"name":"tiles","order":2,"path":"folders/sprite/tiles.yy",},
+    {"name":"tile","order":2,"path":"folders/tile.yy",},
+  ],
   "ResourceOrderSettings":[
-    {"name":"Note1","order":1,"path":"notes/Note1/Note1.yy",},
+    {"name":"obj_colisor","order":1,"path":"objects/obj_colisor/obj_colisor.yy",},
+    {"name":"water","order":1,"path":"sprites/water/water.yy",},
+    {"name":"tile_water","order":1,"path":"tilesets/tile_water/tile_water.yy",},
   ],
 }
